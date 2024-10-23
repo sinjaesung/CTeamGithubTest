@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sinjaesung.unity
     guid: a8072a8516e2d7c4e810e241ee0be413
+  - enabled: 1
+    path: Assets/Scenes/Choigahee.unity
+    guid: 015350a2ead783e408ce1a087dce9069
+  - enabled: 1
+    path: Assets/Scenes/YSH.unity
+    guid: 7b3a75a0f3b6b274c869e59e1ace99df
+  - enabled: 1
+    path: Assets/Scenes/JoMinHo.unity
+    guid: fb50692bd91d3494cb329173924f1588
   m_configObjects: {}
